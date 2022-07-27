@@ -2,22 +2,24 @@ import plussign from "./img/plussign.png";
 import "./App.css";
 import Coins from "./coins.js";
 import SmallTask from "./smallTask.js";
-import LargeTask from "./largeTasks.js";
-import { useState } from "react";
+import LargeTask from "./largeTask.js";
+import { useState, useEffect } from "react";
 
 const url = "http://localhost:3000/";
 const coins = 0;
 const show = false;
 
+
 function App() {
-	const [progress, setProgress] = useState({});
-	const requestOptions = {
-		method: "GET",
-	};
-	fetch(url + "progress", requestOptions)
-		.then((response) => response.json())
-		.then((data) => setProgress({ data }));
-	console.log(progress);
+	const [progress, setProgress] = useState({progress: []});
+	useEffect(()=>{
+		fetch(url + "progress")
+			.then((response) => response.json())
+			.then((data) => setProgress({ progress: data }));
+	}, []);
+	let temp = progress["progress"];
+	if(temp.length >0)
+		console.log(temp[0]);
 	return (
 		<div className="App" id="App">
 			<Coins />
