@@ -6,7 +6,7 @@ import LargeTask from "./largeTask.js";
 import { useState, useEffect } from "react";
 
 const url = "http://localhost:3000/";
-const coins = 0;
+let coins = 0;
 const show = false;
 
 
@@ -19,10 +19,11 @@ function App() {
 	}, []);
 	let temp = progress["progress"];
 	if(temp.length >0)
-		console.log(temp[0]);
+		coins = temp[0].coins;
+	console.log(coins);
 	return (
 		<div className="App" id="App">
-			<Coins />
+			<Coins coins={coins}/>
 			<div className="mainContent">
 				<div className="minutes">
 					<SmallTask />

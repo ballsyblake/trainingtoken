@@ -14,13 +14,8 @@ class Coins extends React.Component {
 		};
 	}
 
-	updateCoins(amount) {
-		this.setState({
-			coins: this.state.coins + amount,
-		});
-	}
-
 	render() {
+		console.log(this.state.coins);
 		return (
 			<div className="navBar">
 				<svg viewBox="0 0 100 80" width="40" height="40">
