@@ -1,9 +1,9 @@
 import React from "react";
 
 class SmallTask extends React.Component {
-	constructor() {
-		super();
-		this.state = { time: {}, seconds: 60, task: "", price: 0, show: false };
+	constructor(props) {
+		super(props);
+		this.state = { time: {}, seconds: 60, task: "", price: 10, show: false };
 		this.timer = 0;
 		this.startTimer = this.startTimer.bind(this);
 		this.countDown = this.countDown.bind(this);
@@ -33,6 +33,7 @@ class SmallTask extends React.Component {
 
 	startTimer() {
 		console.log(this);
+		this.props.callback(this.state.price);
 		if (this.timer == 0 && this.state.seconds > 0) {
 			this.forceUpdate();
 			this.setState({

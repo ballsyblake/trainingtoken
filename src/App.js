@@ -6,51 +6,41 @@ import LargeTask from "./largeTask.js";
 import { useState, useEffect } from "react";
 
 const url = "http://localhost:3000/";
-let coins = 0;
 const show = false;
 
-
 function App() {
-	const [progress, setProgress] = useState({progress: []});
-	useEffect(()=>{
+	const [coins, setCoins] = useState(0);
+
+	const addCoins = (newcoins) => {
+		console.log(coins);
+		console.log(newcoins);
+		setCoins(coins + newcoins);
+	};
+
+	useEffect(() => {
 		fetch(url + "progress")
 			.then((response) => response.json())
-			.then((data) => setProgress({ progress: data }));
+			.then((data) => setCoins(data[0].coins));
 	}, []);
-	let temp = progress["progress"];
-	if(temp.length >0)
-		coins = temp[0].coins;
 	console.log(coins);
+
 	return (
 		<div className="App" id="App">
-			<Coins coins={coins}/>
+			<Coins coins={coins} />
 			<div className="mainContent">
 				<div className="minutes">
-					<SmallTask />
-					<SmallTask />
-					<SmallTask />
+					<SmallTask callback={addCoins} />
+					<SmallTask callback={addCoins} />
+					<SmallTask callback={addCoins} />
 				</div>
 				<div className="dailies">
-					<LargeTask />
-					<LargeTask />
-					<LargeTask />
+					<LargeTask callback={addCoins} />
+					<LargeTask callback={addCoins} />
+					<LargeTask callback={addCoins} />
 				</div>
 			</div>
 		</div>
 	);
-}
-
-function AddCoins(amount) {
-	const requestOptions = {
-		method: "POST",
-		headers: {
-			"Content-Type": "application/json",
-		},
-		body: JSON.stringify(amount),
-	};
-	fetch(url + "coins", requestOptions)
-		.then((response) => response.json())
-		.then((data) => coins);
 }
 
 export default App;

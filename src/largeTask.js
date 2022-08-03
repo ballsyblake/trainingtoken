@@ -5,7 +5,7 @@ const url = "http://localhost:3000/";
 class LargeTask extends React.Component {
 	constructor(props) {
 		super(props);
-		this.state = { time: {}, seconds: 1, task: "", price: 0, show: false };
+		this.state = { time: {}, seconds: 1, task: "", price: 6, show: false };
 		this.timer = 0;
 		this.startTimer = this.startTimer.bind(this);
 		this.countDown = this.countDown.bind(this);
@@ -44,6 +44,7 @@ class LargeTask extends React.Component {
 	}
 
 	startTimer() {
+		this.props.callback(this.state.price);
 		if (this.timer == 0 && this.state.seconds > 0) {
 			this.forceUpdate();
 			this.setState({
