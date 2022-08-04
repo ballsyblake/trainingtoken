@@ -32,7 +32,6 @@ class SmallTask extends React.Component {
 	}
 
 	startTimer() {
-		console.log(this);
 		this.props.callback(this.state.price);
 		if (this.timer == 0 && this.state.seconds > 0) {
 			this.forceUpdate();

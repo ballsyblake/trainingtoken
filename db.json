@@ -1,479 +1,481 @@
 {
-    "progress": [
-        {
-        "coins": 10,
-        "dailies1": 1,
-        "dailies2": 0,
-        "dailies3": 2
-        }
-    ],
-    "tasks": [
-        {
-        "task": "Do 5 Jumping Jacks",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "minutes"
-        
-        },
-        {
-        "task": "Do 10 Jumping Jacks",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "minutes"
-        
-        },
-        {
-        "task": "Do 15 Jumping Jacks",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "minutes"
-        
-        },
-        {
-        "task": "Do 50 Jumping Jacks",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "dailies"
-        
-        },
-        {
-        "task": "Do 75 Jumping Jacks",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 100 Jumping Jacks",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 5 Wall Push Ups",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 10 Wall Push Ups",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 15 Wall Push Ups",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 50 Wall Push Ups",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 75 Wall Push Ups",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 100 Wall Push Ups",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 5 Incline Push Ups",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 10 Incline Push Ups",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 15 Incline Push Ups",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 50 Incline Push Ups",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 75 Incline Push Ups",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 100 Incline Push Ups",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 5 Kneeling Push Ups",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 10 Kneeling Push Ups",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 15 Kneeling Push Ups",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 50 Kneeling Push Ups",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 75 Kneeling Push Ups",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 100 Kneeling Push Ups",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "dailies"
-        },
-        {
-        
-        "task": "Do 5 Push Ups",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 10 Push Ups",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 15 Push Ups",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 50 Push Ups",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 75 Push Ups",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 100 Push Ups",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 5 Pike Push Ups",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 10 Pike Push Ups",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 15 Pike Push Ups",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 50 Pike Push Ups",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 75 Pike Push Ups",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "dailies"
+  "progress": [
+    {
+      "coins": 0,
+      "dailies1": false,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-04T03:12:53.625Z",
+      "id": 1
+    }
+  ],
+  "tasks": [
+      {
+      "task": "Do 5 Jumping Jacks",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "minutes"
+      
+      },
+      {
+      "task": "Do 10 Jumping Jacks",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "minutes"
+      
+      },
+      {
+      "task": "Do 15 Jumping Jacks",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "minutes"
+      
+      },
+      {
+      "task": "Do 50 Jumping Jacks",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "dailies"
+      
+      },
+      {
+      "task": "Do 75 Jumping Jacks",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 100 Jumping Jacks",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 5 Wall Push Ups",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 10 Wall Push Ups",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 15 Wall Push Ups",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 50 Wall Push Ups",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 75 Wall Push Ups",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 100 Wall Push Ups",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 5 Incline Push Ups",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 10 Incline Push Ups",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 15 Incline Push Ups",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 50 Incline Push Ups",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 75 Incline Push Ups",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 100 Incline Push Ups",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 5 Kneeling Push Ups",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 10 Kneeling Push Ups",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 15 Kneeling Push Ups",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 50 Kneeling Push Ups",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 75 Kneeling Push Ups",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 100 Kneeling Push Ups",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "dailies"
+      },
+      {
+      
+      "task": "Do 5 Push Ups",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 10 Push Ups",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 15 Push Ups",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 50 Push Ups",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 75 Push Ups",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 100 Push Ups",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 5 Pike Push Ups",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 10 Pike Push Ups",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 15 Pike Push Ups",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 50 Pike Push Ups",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 75 Pike Push Ups",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "dailies"
 
-        },
-        {
-        
-        "task": "Do 100 Pike Push Ups",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 5 Close Grip Push Ups",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 10 Close Grip Push Ups",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 15 Close Grip Push Ups",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 50 Close Grip Push Ups",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 75 Close Grip Push Ups",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 100 Close Grip Push Ups",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "dailies"
-        },
-        {
-        
-        "task": "Do 5 Decline Push Ups",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 10 Decline Push Ups",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 15 Decline Push Ups",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 40 Decline Push Ups",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 60 Decline Push Ups",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 80 Decline Push Ups",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 5 Decline Close Grip Push Ups",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 10 Decline Close Grip Push Ups",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 15 Decline Close Grip Push Ups",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "minutes"
-        
-        },
-        {
-        
-        "task": "Do 40 Decline Close Grip Push Ups",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 60 Decline Close Grip Push Ups",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "dailies"
-        
-        },
-        {
-        
-        "task": "Do 80 Decline Close Grip Push Ups",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "dailies"
-        
-        },
-        {
-        "task": "Run 100m",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "minutes"
-        
-        },
-        {
-        "task": "Run 200m",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "minutes"
-        
-        },
-        {
-        "task": "Run 400m",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "minutes"
-        
-        },
-        {
-        "task": "Run 3km",
-        "reward": 3,
-        "difficulty": 1,
-        "type": "dailies"
-        
-        },
-        {
-        "task": "Run 5km",
-        "reward": 3,
-        "difficulty": 2,
-        "type": "dailies"
-        
-        },
-        {
-        "task": "Run 7km",
-        "reward": 3,
-        "difficulty": 3,
-        "type": "dailies"
-        
-        }
-    ]
+      },
+      {
+      
+      "task": "Do 100 Pike Push Ups",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 5 Close Grip Push Ups",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 10 Close Grip Push Ups",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 15 Close Grip Push Ups",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 50 Close Grip Push Ups",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 75 Close Grip Push Ups",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 100 Close Grip Push Ups",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "dailies"
+      },
+      {
+      
+      "task": "Do 5 Decline Push Ups",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 10 Decline Push Ups",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 15 Decline Push Ups",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 40 Decline Push Ups",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 60 Decline Push Ups",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 80 Decline Push Ups",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 5 Decline Close Grip Push Ups",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 10 Decline Close Grip Push Ups",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 15 Decline Close Grip Push Ups",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "minutes"
+      
+      },
+      {
+      
+      "task": "Do 40 Decline Close Grip Push Ups",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 60 Decline Close Grip Push Ups",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "dailies"
+      
+      },
+      {
+      
+      "task": "Do 80 Decline Close Grip Push Ups",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "dailies"
+      
+      },
+      {
+      "task": "Run 100m",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "minutes"
+      
+      },
+      {
+      "task": "Run 200m",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "minutes"
+      
+      },
+      {
+      "task": "Run 400m",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "minutes"
+      
+      },
+      {
+      "task": "Run 3km",
+      "reward": 3,
+      "difficulty": 1,
+      "type": "dailies"
+      
+      },
+      {
+      "task": "Run 5km",
+      "reward": 3,
+      "difficulty": 2,
+      "type": "dailies"
+      
+      },
+      {
+      "task": "Run 7km",
+      "reward": 3,
+      "difficulty": 3,
+      "type": "dailies"
+      
+      }
+  ]
 }
