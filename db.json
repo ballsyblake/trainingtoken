@@ -7,475 +7,2224 @@
       "dailies3": false,
       "timeOf": "2022-08-04T03:12:53.625Z",
       "id": 1
+    },
+    {
+      "coins": 10,
+      "dailies1": false,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T06:49:11.366Z",
+      "id": 2
+    },
+    {
+      "coins": 20,
+      "dailies1": false,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T06:49:12.006Z",
+      "id": 3
+    },
+    {
+      "coins": 30,
+      "dailies1": false,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T06:49:12.353Z",
+      "id": 4
+    },
+    {
+      "coins": 36,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T06:49:12.849Z",
+      "id": 5
+    },
+    {
+      "coins": 42,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T06:49:13.414Z",
+      "id": 6
+    },
+    {
+      "coins": 48,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T06:49:13.840Z",
+      "id": 7
+    },
+    {
+      "coins": 48,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T06:49:16.393Z",
+      "id": 8
+    },
+    {
+      "coins": 48,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T06:49:16.395Z",
+      "id": 9
+    },
+    {
+      "coins": 48,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T06:49:16.395Z",
+      "id": 10
+    },
+    {
+      "coins": 48,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T06:54:51.940Z",
+      "id": 11
+    },
+    {
+      "coins": 48,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T06:54:51.941Z",
+      "id": 12
+    },
+    {
+      "coins": 48,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T06:54:51.941Z",
+      "id": 13
+    },
+    {
+      "coins": 48,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T06:54:55.021Z",
+      "id": 14
+    },
+    {
+      "coins": 48,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T06:54:55.022Z",
+      "id": 15
+    },
+    {
+      "coins": 48,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T06:54:55.023Z",
+      "id": 16
+    },
+    {
+      "coins": 48,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:02:21.644Z",
+      "id": 17
+    },
+    {
+      "coins": 48,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:02:21.646Z",
+      "id": 18
+    },
+    {
+      "coins": 48,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:02:21.646Z",
+      "id": 19
+    },
+    {
+      "coins": 58,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:02:23.686Z",
+      "id": 20
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:02:24.242Z",
+      "id": 21
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:02:40.863Z",
+      "id": 22
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:02:40.865Z",
+      "id": 23
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:02:40.864Z",
+      "id": 24
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:03:11.163Z",
+      "id": 25
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:03:11.164Z",
+      "id": 26
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:03:11.164Z",
+      "id": 27
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:03:25.204Z",
+      "id": 28
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:03:25.205Z",
+      "id": 29
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:03:25.204Z",
+      "id": 30
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:13:49.387Z",
+      "id": 31
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:13:49.389Z",
+      "id": 32
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:13:49.388Z",
+      "id": 33
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:13:54.504Z",
+      "id": 34
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:13:54.505Z",
+      "id": 35
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:13:54.506Z",
+      "id": 36
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:14:15.104Z",
+      "id": 37
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:14:15.106Z",
+      "id": 38
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:14:15.105Z",
+      "id": 39
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:14:27.327Z",
+      "id": 40
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:14:27.328Z",
+      "id": 41
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:14:27.329Z",
+      "id": 42
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:14:29.349Z",
+      "id": 43
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:14:29.350Z",
+      "id": 44
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:14:29.350Z",
+      "id": 45
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:16:12.046Z",
+      "id": 46
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:16:12.047Z",
+      "id": 47
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:16:12.047Z",
+      "id": 48
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:16:43.777Z",
+      "id": 49
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:16:43.778Z",
+      "id": 50
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:16:43.779Z",
+      "id": 51
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:25:17.224Z",
+      "id": 52
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:25:17.226Z",
+      "id": 53
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:25:17.225Z",
+      "id": 54
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:33:34.269Z",
+      "id": 55
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:33:34.271Z",
+      "id": 56
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:33:34.271Z",
+      "id": 57
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:33:35.399Z",
+      "id": 58
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:33:35.400Z",
+      "id": 59
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:33:35.401Z",
+      "id": 60
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:40:05.247Z",
+      "id": 61
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:40:05.249Z",
+      "id": 62
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:40:05.248Z",
+      "id": 63
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:40:31.212Z",
+      "id": 64
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:40:31.213Z",
+      "id": 65
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:40:31.213Z",
+      "id": 66
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:47:35.822Z",
+      "id": 67
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:47:35.823Z",
+      "id": 68
+    },
+    {
+      "coins": 68,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:47:35.823Z",
+      "id": 69
+    },
+    {
+      "coins": 78,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:47:42.619Z",
+      "id": 70
+    },
+    {
+      "coins": 78,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:47:49.767Z",
+      "id": 71
+    },
+    {
+      "coins": 78,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:47:49.769Z",
+      "id": 72
+    },
+    {
+      "coins": 78,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:47:49.768Z",
+      "id": 73
+    },
+    {
+      "coins": 88,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:47:59.350Z",
+      "id": 74
+    },
+    {
+      "coins": 98,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:48:07.968Z",
+      "id": 75
+    },
+    {
+      "coins": 98,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:50:20.512Z",
+      "id": 76
+    },
+    {
+      "coins": 98,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:50:20.513Z",
+      "id": 77
+    },
+    {
+      "coins": 98,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:50:20.514Z",
+      "id": 78
+    },
+    {
+      "coins": 108,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:50:21.337Z",
+      "id": 79
+    },
+    {
+      "coins": 118,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:50:24.315Z",
+      "id": 80
+    },
+    {
+      "coins": 128,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:50:29.993Z",
+      "id": 81
+    },
+    {
+      "coins": 128,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:51:21.581Z",
+      "id": 82
+    },
+    {
+      "coins": 128,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:51:21.583Z",
+      "id": 83
+    },
+    {
+      "coins": 128,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:51:21.582Z",
+      "id": 84
+    },
+    {
+      "coins": 138,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:51:52.240Z",
+      "id": 85
+    },
+    {
+      "coins": 138,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:51:52.238Z",
+      "id": 86
+    },
+    {
+      "coins": 138,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:51:52.239Z",
+      "id": 87
+    },
+    {
+      "coins": 138,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:51:52.239Z",
+      "id": 88
+    },
+    {
+      "coins": 138,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:51:52.241Z",
+      "id": 89
+    },
+    {
+      "coins": 138,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:51:52.242Z",
+      "id": 90
+    },
+    {
+      "coins": 148,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:51:53.693Z",
+      "id": 91
+    },
+    {
+      "coins": 148,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:51:53.694Z",
+      "id": 92
+    },
+    {
+      "coins": 148,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:51:53.695Z",
+      "id": 93
+    },
+    {
+      "coins": 138,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:51:53.696Z",
+      "id": 94
+    },
+    {
+      "coins": 138,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:51:53.697Z",
+      "id": 95
+    },
+    {
+      "coins": 138,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:51:53.697Z",
+      "id": 96
+    },
+    {
+      "coins": 148,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:51:53.698Z",
+      "id": 97
+    },
+    {
+      "coins": 148,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:51:53.699Z",
+      "id": 98
+    },
+    {
+      "coins": 148,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:51:53.699Z",
+      "id": 99
+    },
+    {
+      "coins": 158,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:52:19.076Z",
+      "id": 100
+    },
+    {
+      "coins": 158,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:52:19.077Z",
+      "id": 101
+    },
+    {
+      "coins": 158,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:52:19.078Z",
+      "id": 102
+    },
+    {
+      "coins": 148,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:52:19.079Z",
+      "id": 103
+    },
+    {
+      "coins": 148,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:52:19.079Z",
+      "id": 104
+    },
+    {
+      "coins": 148,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:52:19.080Z",
+      "id": 105
+    },
+    {
+      "coins": 158,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:52:19.081Z",
+      "id": 106
+    },
+    {
+      "coins": 158,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:52:19.082Z",
+      "id": 107
+    },
+    {
+      "coins": 158,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:52:19.082Z",
+      "id": 108
+    },
+    {
+      "coins": 158,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:53:13.318Z",
+      "id": 109
+    },
+    {
+      "coins": 158,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:53:13.320Z",
+      "id": 110
+    },
+    {
+      "coins": 158,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:53:13.319Z",
+      "id": 111
+    },
+    {
+      "coins": 158,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:53:13.321Z",
+      "id": 112
+    },
+    {
+      "coins": 158,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:53:13.322Z",
+      "id": 113
+    },
+    {
+      "coins": 158,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:53:13.322Z",
+      "id": 114
+    },
+    {
+      "coins": 161,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:53:18.513Z",
+      "id": 115
+    },
+    {
+      "coins": 164,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:53:19.461Z",
+      "id": 116
+    },
+    {
+      "coins": 167,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:53:19.926Z",
+      "id": 117
+    },
+    {
+      "coins": 177,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:53:38.340Z",
+      "id": 118
+    },
+    {
+      "coins": 177,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:53:38.343Z",
+      "id": 119
+    },
+    {
+      "coins": 187,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:05.187Z",
+      "id": 120
+    },
+    {
+      "coins": 177,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:54:05.190Z",
+      "id": 121
+    },
+    {
+      "coins": 177,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:54:05.191Z",
+      "id": 122
+    },
+    {
+      "coins": 177,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:05.191Z",
+      "id": 123
+    },
+    {
+      "coins": 187,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:05.189Z",
+      "id": 124
+    },
+    {
+      "coins": 187,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:05.192Z",
+      "id": 125
+    },
+    {
+      "coins": 187,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:05.190Z",
+      "id": 126
+    },
+    {
+      "coins": 187,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:05.192Z",
+      "id": 127
+    },
+    {
+      "coins": 187,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:05.193Z",
+      "id": 128
+    },
+    {
+      "coins": 197,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:07.654Z",
+      "id": 129
+    },
+    {
+      "coins": 197,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:07.656Z",
+      "id": 130
+    },
+    {
+      "coins": 197,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:07.657Z",
+      "id": 131
+    },
+    {
+      "coins": 187,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:54:07.657Z",
+      "id": 132
+    },
+    {
+      "coins": 187,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:54:07.658Z",
+      "id": 133
+    },
+    {
+      "coins": 187,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:07.658Z",
+      "id": 134
+    },
+    {
+      "coins": 197,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:07.659Z",
+      "id": 135
+    },
+    {
+      "coins": 197,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:07.659Z",
+      "id": 136
+    },
+    {
+      "coins": 197,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:07.660Z",
+      "id": 137
+    },
+    {
+      "coins": 207,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:08.133Z",
+      "id": 138
+    },
+    {
+      "coins": 207,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:08.135Z",
+      "id": 139
+    },
+    {
+      "coins": 207,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:08.136Z",
+      "id": 140
+    },
+    {
+      "coins": 197,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:54:08.137Z",
+      "id": 141
+    },
+    {
+      "coins": 197,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:54:08.138Z",
+      "id": 142
+    },
+    {
+      "coins": 197,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:08.138Z",
+      "id": 143
+    },
+    {
+      "coins": 207,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:08.139Z",
+      "id": 144
+    },
+    {
+      "coins": 207,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:08.140Z",
+      "id": 145
+    },
+    {
+      "coins": 207,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:08.141Z",
+      "id": 146
+    },
+    {
+      "coins": 217,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:08.664Z",
+      "id": 147
+    },
+    {
+      "coins": 217,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:08.665Z",
+      "id": 148
+    },
+    {
+      "coins": 217,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:08.666Z",
+      "id": 149
+    },
+    {
+      "coins": 207,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:54:08.667Z",
+      "id": 150
+    },
+    {
+      "coins": 207,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:54:08.668Z",
+      "id": 151
+    },
+    {
+      "coins": 207,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:08.669Z",
+      "id": 152
+    },
+    {
+      "coins": 217,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:08.670Z",
+      "id": 153
+    },
+    {
+      "coins": 217,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:08.671Z",
+      "id": 154
+    },
+    {
+      "coins": 217,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:54:08.672Z",
+      "id": 155
+    },
+    {
+      "coins": 227,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:55:19.936Z",
+      "id": 156
+    },
+    {
+      "coins": 227,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:55:19.940Z",
+      "id": 157
+    },
+    {
+      "coins": 227,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:55:19.941Z",
+      "id": 158
+    },
+    {
+      "coins": 217,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:55:19.943Z",
+      "id": 159
+    },
+    {
+      "coins": 217,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T07:55:19.947Z",
+      "id": 160
+    },
+    {
+      "coins": 217,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:55:19.948Z",
+      "id": 161
+    },
+    {
+      "coins": 227,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:55:19.949Z",
+      "id": 162
+    },
+    {
+      "coins": 227,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:55:19.950Z",
+      "id": 163
+    },
+    {
+      "coins": 227,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:55:19.951Z",
+      "id": 164
+    },
+    {
+      "coins": 220,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:56:48.815Z",
+      "id": 165
+    },
+    {
+      "coins": 223,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:56:50.268Z",
+      "id": 166
+    },
+    {
+      "coins": 226,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T07:56:51.234Z",
+      "id": 167
+    },
+    {
+      "coins": 229,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:01:26.902Z",
+      "id": 168
+    },
+    {
+      "coins": 232,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:01:27.756Z",
+      "id": 169
+    },
+    {
+      "coins": 235,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:01:28.334Z",
+      "id": 170
+    },
+    {
+      "coins": 245,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:01:49.000Z",
+      "id": 171
+    },
+    {
+      "coins": 245,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:01:49.002Z",
+      "id": 172
+    },
+    {
+      "coins": 245,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:01:49.002Z",
+      "id": 173
+    },
+    {
+      "coins": 235,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T08:01:49.004Z",
+      "id": 174
+    },
+    {
+      "coins": 235,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T08:01:49.004Z",
+      "id": 175
+    },
+    {
+      "coins": 235,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:01:49.005Z",
+      "id": 176
+    },
+    {
+      "coins": 245,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:01:49.005Z",
+      "id": 177
+    },
+    {
+      "coins": 245,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:01:49.006Z",
+      "id": 178
+    },
+    {
+      "coins": 245,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:01:49.007Z",
+      "id": 179
+    },
+    {
+      "coins": 238,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:28.468Z",
+      "id": 180
+    },
+    {
+      "coins": 241,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:29.424Z",
+      "id": 181
+    },
+    {
+      "coins": 244,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:29.690Z",
+      "id": 182
+    },
+    {
+      "coins": 254,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:31.491Z",
+      "id": 183
+    },
+    {
+      "coins": 254,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:31.492Z",
+      "id": 184
+    },
+    {
+      "coins": 254,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:31.493Z",
+      "id": 185
+    },
+    {
+      "coins": 244,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T08:02:31.494Z",
+      "id": 186
+    },
+    {
+      "coins": 244,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T08:02:31.494Z",
+      "id": 187
+    },
+    {
+      "coins": 244,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:31.495Z",
+      "id": 188
+    },
+    {
+      "coins": 254,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:31.495Z",
+      "id": 189
+    },
+    {
+      "coins": 254,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:31.496Z",
+      "id": 190
+    },
+    {
+      "coins": 254,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:31.497Z",
+      "id": 191
+    },
+    {
+      "coins": 247,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:51.491Z",
+      "id": 192
+    },
+    {
+      "coins": 250,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:51.729Z",
+      "id": 193
+    },
+    {
+      "coins": 253,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:51.950Z",
+      "id": 194
+    },
+    {
+      "coins": 263,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:54.853Z",
+      "id": 195
+    },
+    {
+      "coins": 263,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:54.854Z",
+      "id": 196
+    },
+    {
+      "coins": 263,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:54.855Z",
+      "id": 197
+    },
+    {
+      "coins": 253,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T08:02:54.856Z",
+      "id": 198
+    },
+    {
+      "coins": 253,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T08:02:54.857Z",
+      "id": 199
+    },
+    {
+      "coins": 253,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:54.857Z",
+      "id": 200
+    },
+    {
+      "coins": 263,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:54.858Z",
+      "id": 201
+    },
+    {
+      "coins": 263,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:54.859Z",
+      "id": 202
+    },
+    {
+      "coins": 263,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:02:54.860Z",
+      "id": 203
+    },
+    {
+      "coins": 256,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:03.377Z",
+      "id": 204
+    },
+    {
+      "coins": 259,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:04.375Z",
+      "id": 205
+    },
+    {
+      "coins": 262,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:04.590Z",
+      "id": 206
+    },
+    {
+      "coins": 272,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:06.692Z",
+      "id": 207
+    },
+    {
+      "coins": 272,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:06.694Z",
+      "id": 208
+    },
+    {
+      "coins": 272,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:06.695Z",
+      "id": 209
+    },
+    {
+      "coins": 262,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T08:03:06.696Z",
+      "id": 210
+    },
+    {
+      "coins": 262,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T08:03:06.697Z",
+      "id": 211
+    },
+    {
+      "coins": 262,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:06.697Z",
+      "id": 212
+    },
+    {
+      "coins": 272,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:06.698Z",
+      "id": 213
+    },
+    {
+      "coins": 272,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:06.700Z",
+      "id": 214
+    },
+    {
+      "coins": 272,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:06.700Z",
+      "id": 215
+    },
+    {
+      "coins": 282,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:08.595Z",
+      "id": 216
+    },
+    {
+      "coins": 282,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:08.598Z",
+      "id": 217
+    },
+    {
+      "coins": 282,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:08.596Z",
+      "id": 218
+    },
+    {
+      "coins": 272,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T08:03:08.599Z",
+      "id": 219
+    },
+    {
+      "coins": 272,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T08:03:08.599Z",
+      "id": 220
+    },
+    {
+      "coins": 272,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:08.600Z",
+      "id": 221
+    },
+    {
+      "coins": 282,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:08.600Z",
+      "id": 222
+    },
+    {
+      "coins": 282,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:08.601Z",
+      "id": 223
+    },
+    {
+      "coins": 282,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:08.602Z",
+      "id": 224
+    },
+    {
+      "coins": 292,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:10.801Z",
+      "id": 225
+    },
+    {
+      "coins": 292,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:10.802Z",
+      "id": 226
+    },
+    {
+      "coins": 292,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:10.803Z",
+      "id": 227
+    },
+    {
+      "coins": 282,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-07T08:03:10.804Z",
+      "id": 228
+    },
+    {
+      "coins": 282,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-07T08:03:10.804Z",
+      "id": 229
+    },
+    {
+      "coins": 282,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:10.805Z",
+      "id": 230
+    },
+    {
+      "coins": 292,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:10.805Z",
+      "id": 231
+    },
+    {
+      "coins": 292,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:10.806Z",
+      "id": 232
+    },
+    {
+      "coins": 292,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-07T08:03:10.807Z",
+      "id": 233
     }
   ],
   "tasks": [
-      {
+    {
       "task": "Do 5 Jumping Jacks",
       "reward": 3,
       "difficulty": 1,
       "type": "minutes"
-      
-      },
-      {
+    },
+    {
       "task": "Do 10 Jumping Jacks",
       "reward": 3,
       "difficulty": 2,
       "type": "minutes"
-      
-      },
-      {
+    },
+    {
       "task": "Do 15 Jumping Jacks",
       "reward": 3,
       "difficulty": 3,
       "type": "minutes"
-      
-      },
-      {
+    },
+    {
       "task": "Do 50 Jumping Jacks",
       "reward": 3,
       "difficulty": 1,
       "type": "dailies"
-      
-      },
-      {
+    },
+    {
       "task": "Do 75 Jumping Jacks",
       "reward": 3,
       "difficulty": 2,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 100 Jumping Jacks",
       "reward": 3,
       "difficulty": 3,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 5 Wall Push Ups",
       "reward": 3,
       "difficulty": 1,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 10 Wall Push Ups",
       "reward": 3,
       "difficulty": 2,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 15 Wall Push Ups",
       "reward": 3,
       "difficulty": 3,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 50 Wall Push Ups",
       "reward": 3,
       "difficulty": 1,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 75 Wall Push Ups",
       "reward": 3,
       "difficulty": 2,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 100 Wall Push Ups",
       "reward": 3,
       "difficulty": 3,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 5 Incline Push Ups",
       "reward": 3,
       "difficulty": 1,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 10 Incline Push Ups",
       "reward": 3,
       "difficulty": 2,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 15 Incline Push Ups",
       "reward": 3,
       "difficulty": 3,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 50 Incline Push Ups",
       "reward": 3,
       "difficulty": 1,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 75 Incline Push Ups",
       "reward": 3,
       "difficulty": 2,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 100 Incline Push Ups",
       "reward": 3,
       "difficulty": 3,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 5 Kneeling Push Ups",
       "reward": 3,
       "difficulty": 1,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 10 Kneeling Push Ups",
       "reward": 3,
       "difficulty": 2,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 15 Kneeling Push Ups",
       "reward": 3,
       "difficulty": 3,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 50 Kneeling Push Ups",
       "reward": 3,
       "difficulty": 1,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 75 Kneeling Push Ups",
       "reward": 3,
       "difficulty": 2,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 100 Kneeling Push Ups",
       "reward": 3,
       "difficulty": 3,
       "type": "dailies"
-      },
-      {
-      
+    },
+    {
       "task": "Do 5 Push Ups",
       "reward": 3,
       "difficulty": 1,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 10 Push Ups",
       "reward": 3,
       "difficulty": 2,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 15 Push Ups",
       "reward": 3,
       "difficulty": 3,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 50 Push Ups",
       "reward": 3,
       "difficulty": 1,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 75 Push Ups",
       "reward": 3,
       "difficulty": 2,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 100 Push Ups",
       "reward": 3,
       "difficulty": 3,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 5 Pike Push Ups",
       "reward": 3,
       "difficulty": 1,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 10 Pike Push Ups",
       "reward": 3,
       "difficulty": 2,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 15 Pike Push Ups",
       "reward": 3,
       "difficulty": 3,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 50 Pike Push Ups",
       "reward": 3,
       "difficulty": 1,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 75 Pike Push Ups",
       "reward": 3,
       "difficulty": 2,
       "type": "dailies"
-
-      },
-      {
-      
+    },
+    {
       "task": "Do 100 Pike Push Ups",
       "reward": 3,
       "difficulty": 3,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 5 Close Grip Push Ups",
       "reward": 3,
       "difficulty": 1,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 10 Close Grip Push Ups",
       "reward": 3,
       "difficulty": 2,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 15 Close Grip Push Ups",
       "reward": 3,
       "difficulty": 3,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 50 Close Grip Push Ups",
       "reward": 3,
       "difficulty": 1,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 75 Close Grip Push Ups",
       "reward": 3,
       "difficulty": 2,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 100 Close Grip Push Ups",
       "reward": 3,
       "difficulty": 3,
       "type": "dailies"
-      },
-      {
-      
+    },
+    {
       "task": "Do 5 Decline Push Ups",
       "reward": 3,
       "difficulty": 1,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 10 Decline Push Ups",
       "reward": 3,
       "difficulty": 2,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 15 Decline Push Ups",
       "reward": 3,
       "difficulty": 3,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 40 Decline Push Ups",
       "reward": 3,
       "difficulty": 1,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 60 Decline Push Ups",
       "reward": 3,
       "difficulty": 2,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 80 Decline Push Ups",
       "reward": 3,
       "difficulty": 3,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 5 Decline Close Grip Push Ups",
       "reward": 3,
       "difficulty": 1,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 10 Decline Close Grip Push Ups",
       "reward": 3,
       "difficulty": 2,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 15 Decline Close Grip Push Ups",
       "reward": 3,
       "difficulty": 3,
       "type": "minutes"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 40 Decline Close Grip Push Ups",
       "reward": 3,
       "difficulty": 1,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 60 Decline Close Grip Push Ups",
       "reward": 3,
       "difficulty": 2,
       "type": "dailies"
-      
-      },
-      {
-      
+    },
+    {
       "task": "Do 80 Decline Close Grip Push Ups",
       "reward": 3,
       "difficulty": 3,
       "type": "dailies"
-      
-      },
-      {
+    },
+    {
       "task": "Run 100m",
       "reward": 3,
       "difficulty": 1,
       "type": "minutes"
-      
-      },
-      {
+    },
+    {
       "task": "Run 200m",
       "reward": 3,
       "difficulty": 2,
       "type": "minutes"
-      
-      },
-      {
+    },
+    {
       "task": "Run 400m",
       "reward": 3,
       "difficulty": 3,
       "type": "minutes"
-      
-      },
-      {
+    },
+    {
       "task": "Run 3km",
       "reward": 3,
       "difficulty": 1,
       "type": "dailies"
-      
-      },
-      {
+    },
+    {
       "task": "Run 5km",
       "reward": 3,
       "difficulty": 2,
       "type": "dailies"
-      
-      },
-      {
+    },
+    {
       "task": "Run 7km",
       "reward": 3,
       "difficulty": 3,
       "type": "dailies"
-      
-      }
+    }
   ]
 }

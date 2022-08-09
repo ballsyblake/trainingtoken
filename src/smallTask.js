@@ -3,7 +3,7 @@ import React from "react";
 class SmallTask extends React.Component {
 	constructor(props) {
 		super(props);
-		this.state = { time: {}, seconds: 60, task: "", price: 10, show: false };
+		this.state = { time: {}, seconds: 1, task: "", price: 10, show: true };
 		this.timer = 0;
 		this.startTimer = this.startTimer.bind(this);
 		this.countDown = this.countDown.bind(this);
@@ -29,6 +29,7 @@ class SmallTask extends React.Component {
 	componentDidMount() {
 		let timeLeftVar = this.secondsToTime(this.state.seconds);
 		this.setState({ time: timeLeftVar });
+		this.startTimer();
 	}
 
 	startTimer() {
@@ -40,6 +41,7 @@ class SmallTask extends React.Component {
 			});
 			this.timer = setInterval(this.countDown, 1000);
 		}
+		console.log(this.props.task);
 	}
 
 	countDown() {
@@ -55,10 +57,10 @@ class SmallTask extends React.Component {
 			clearInterval(this.timer);
 			this.timer = 0;
 			this.setState({
-				seconds: 5,
-			});
-			this.setState({
+				seconds: 60,
 				show: false,
+				task: this.props.task.task,
+				price: this.props.task.reward,
 			});
 		}
 	}
