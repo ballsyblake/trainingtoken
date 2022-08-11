@@ -5,7 +5,7 @@ const url = "http://localhost:3000/";
 class LargeTask extends React.Component {
 	constructor(props) {
 		super(props);
-		this.state = { time: {}, seconds: 86400, task: "", price: 6, show: props.show };
+		this.state = { time: {}, seconds: 1, task: "", price: 6, show: props.show };
 		this.timer = 0;
 		this.startTimer = this.startTimer.bind(this);
 		this.countDown = this.countDown.bind(this);
@@ -42,6 +42,7 @@ class LargeTask extends React.Component {
 			seconds: currentSeconds,
 		});
 		let temp = String(this.props.timeOf).substring(0,10);
+		console.log(temp);
 		if(this.state.show && temp == this.today.toLocaleDateString("fr-CA")) {
 			this.props.callback(0, 1);
 			if (this.timer == 0 && this.state.seconds > 0) {
@@ -51,7 +52,17 @@ class LargeTask extends React.Component {
 				});
 				this.timer = setInterval(this.countDown, 1000);
 			}
-		};
+		}else{
+			this.props.callback(0, 0);
+			this.forceUpdate();
+			this.setState({
+				show: false,
+			});
+		}
+		setTimeout(function() { //Start the timer
+			this.setState({task: this.props.task.task,
+				price: this.props.task.reward,}) //After 1 second, set render to true
+		}.bind(this), 1000);
 	}
 
 	startTimer() {
@@ -79,11 +90,12 @@ class LargeTask extends React.Component {
 			this.timer = 0;
 			// Compare current time and convert to seconds
 			let currentSeconds = 86400 - this.timeInSeconds;
+			
 			this.setState({
 				seconds: currentSeconds,
-			});
-			this.setState({
 				show: false,
+				task: this.props.task.task,
+				price: this.props.task.reward,
 			});
 		}
 	}
@@ -95,7 +107,10 @@ class LargeTask extends React.Component {
 				<br />
 			</div>
 		) : (
-			<div className="tasklrg" onClick={this.startTimer}></div>
+			<div className="tasklrg" onClick={this.startTimer}>
+				<p>{this.state.task}</p>
+				<p>Reward: {this.state.price}</p>
+			</div>
 		);
 	}
 }

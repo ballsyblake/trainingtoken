@@ -91,7 +91,6 @@ function App() {
 			dailies3: progress.dailies3,
 			timeOf: currTime,
 		});
-		console.log(progress);
 		postData(url + "progress", {
 			coins: updatedCoins,
 			dailies1: progress.dailies1,
@@ -110,6 +109,22 @@ function App() {
 		return temp;
 	};
 
+	const sortDataType = (input) => {
+		let tempListMin = [];
+		let tempListDay = [];
+		input.forEach((el) => {
+			if(el.type == "minutes"){
+				tempListMin.push(el);
+			}
+				
+			else if(el.type == "dailies"){
+				tempListDay.push(el);
+			}
+		});
+		setTasksMin(tempListMin);
+		setTasksDay(tempListDay);
+	};
+
 	useEffect(() => {
 		fetch(url + "progress")
 			.then((response) => response.json())
@@ -118,9 +133,10 @@ function App() {
 	useEffect(() => {
 		fetch(url + "tasks")
 			.then((response) => response.json())
-			.then((data) => setTasks(data));
+			.then((data) => sortDataType(data));
 	}, []);
-	console.log(tasks[getRandomInt(tasks.length)]);
+	
+	console.log(tasksDay[getRandomInt(tasksDay.length)]);
 	return Object.keys(progress).length > 0 ? (
 		<div className="App" id="App">
 			<Coins coins={progress.coins} />
@@ -128,30 +144,33 @@ function App() {
 				<div className="minutes">
 					<SmallTask
 						callback={addCoinsSml}
-						task={tasks[getRandomInt(tasks.length)]}
+						task={tasksMin[getRandomInt(tasksMin.length)]}
 					/>
 					<SmallTask
 						callback={addCoinsSml}
-						task={tasks[getRandomInt(tasks.length)]}
+						task={tasksMin[getRandomInt(tasksMin.length)]}
 					/>
 					<SmallTask
 						callback={addCoinsSml}
-						task={tasks[getRandomInt(tasks.length)]}
+						task={tasksMin[getRandomInt(tasksMin.length)]}
 					/>
 				</div>
 				<div className="dailies">
 					<LargeTask
 						callback={addCoins}
+						task={tasksDay[getRandomInt(tasksDay.length)]}
 						show={progress["dailies1"]}
 						timeOf={progress["timeOf"]}
 					/>
 					<LargeTask
 						callback={addCoins}
+						task={tasksDay[getRandomInt(tasksDay.length)]}
 						show={progress["dailies2"]}
 						timeOf={progress["timeOf"]}
 					/>
 					<LargeTask
 						callback={addCoins}
+						task={tasksDay[getRandomInt(tasksDay.length)]}
 						show={progress["dailies3"]}
 						timeOf={progress["timeOf"]}
 					/>

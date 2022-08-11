@@ -41,7 +41,6 @@ class SmallTask extends React.Component {
 			});
 			this.timer = setInterval(this.countDown, 1000);
 		}
-		console.log(this.props.task);
 	}
 
 	countDown() {
