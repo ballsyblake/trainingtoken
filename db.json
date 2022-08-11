@@ -2015,6 +2015,102 @@
       "dailies3": true,
       "timeOf": "2022-08-11T07:38:14.229Z",
       "id": 252
+    },
+    {
+      "coins": 212,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-11T08:21:04.581Z",
+      "id": 253
+    },
+    {
+      "coins": 212,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-11T08:21:04.582Z",
+      "id": 254
+    },
+    {
+      "coins": 212,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-11T08:21:04.582Z",
+      "id": 255
+    },
+    {
+      "coins": 202,
+      "dailies1": true,
+      "dailies2": false,
+      "dailies3": false,
+      "timeOf": "2022-08-11T08:21:04.592Z",
+      "id": 256
+    },
+    {
+      "coins": 202,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": false,
+      "timeOf": "2022-08-11T08:21:04.593Z",
+      "id": 257
+    },
+    {
+      "coins": 202,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-11T08:21:04.594Z",
+      "id": 258
+    },
+    {
+      "coins": 212,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-11T08:21:04.595Z",
+      "id": 259
+    },
+    {
+      "coins": 212,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-11T08:21:04.596Z",
+      "id": 260
+    },
+    {
+      "coins": 212,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-11T08:21:04.597Z",
+      "id": 261
+    },
+    {
+      "coins": 202.5,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-11T08:21:11.209Z",
+      "id": 262
+    },
+    {
+      "coins": 202.75,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-11T08:21:11.677Z",
+      "id": 263
+    },
+    {
+      "coins": 203.25,
+      "dailies1": true,
+      "dailies2": true,
+      "dailies3": true,
+      "timeOf": "2022-08-11T08:21:12.565Z",
+      "id": 264
     }
   ],
   "tasks": [
